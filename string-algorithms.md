@@ -498,6 +498,8 @@ Therefore suffix array will be = \[2, 3, 0, 4, 1\]
 - Total time: O(nlog^2n) we can optimize it to nlogn aswell
 ![](.gitbook/assets/suffixarray2.png)
 
+### [O(N(LogN)^2) building algorithm](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/tutorial/)
+
 ```c++
 const int alphabet = 256;
 int strLen;
