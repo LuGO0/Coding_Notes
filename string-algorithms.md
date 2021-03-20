@@ -500,6 +500,9 @@ Therefore suffix array will be = \[2, 3, 0, 4, 1\]
 
 ### [O(N(LogN)^2) building algorithm](https://www.hackerearth.com/practice/data-structures/advanced-data-structures/suffix-arrays/tutorial/)
 
+### [code chef article](https://discuss.codechef.com/t/a-tutorial-on-suffix-arrays/2950)
+
+
 ```c++
 const int alphabet = 256;
 int strLen;
